@@ -26,7 +26,7 @@ export default function Qualifications() {
                 variant="body2"
                 color="text.primary"
               >
-                8.3 CGPA<br/>
+                8.4 CGPA<br/>
                 2019-2023
               </Typography><br/>
               

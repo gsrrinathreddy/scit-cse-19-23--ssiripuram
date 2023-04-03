@@ -9,6 +9,9 @@ import Qualification from './Pages/Qualification';
 import Skills from './Pages/Skills';
 import Hobbies from './Pages/Hobbies';
 import Experience from './Pages/Experience';
+import Projects from './Pages/Projects';
+import Contactme from './Pages/Contactme';
+import Workshops from './Pages/Workshops';
 
 
 
@@ -25,6 +28,9 @@ function App() {
         <Route path="/Skills" element={<Skills/>}/>
         <Route path="/Hobbies" element={<Hobbies/>}/>
         <Route path="/Experience" element={<Experience/>}/>
+        <Route path="/Projects" element={<Projects/>}/>
+        <Route path="/Contactme" element={<Contactme/>}/>
+        <Route path="/Workshops" element={<Workshops/>}/>
       </Routes>
       
       
